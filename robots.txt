@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ulademi.github.io/sitemap.html.gz
+Sitemap: https://ulademi.github.io/app/sitemap.html.gz
+Sitemap: https://ulademi.github.io/assets/sitemap.html.gz
+Sitemap: https://ulademi.github.io/css/sitemap.html.gz
+Sitemap: https://ulademi.github.io/data/sitemap.html.gz
+Sitemap: https://ulademi.github.io/includes/sitemap.html.gz
+Sitemap: https://ulademi.github.io/item/sitemap.html.gz
+Sitemap: https://ulademi.github.io/src/sitemap.html.gz
